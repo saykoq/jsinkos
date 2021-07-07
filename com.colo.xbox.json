@@ -1,0 +1,43 @@
+{
+    "networks": {
+        "native": ["admob", "facebook", "ironsrc"],
+        "banner": ["admob", "facebook", "ironsrc"],
+        "interstitial": ["admob", "facebook", "ironsrc"],
+        "nativebanner": ["admob", "facebook", "ironsrc"],
+        "mediumrectangle": ["admob", "facebook", "ironsrc"]
+    },
+    "facebook": {
+        "native": "",
+        "banner": "3625690760988465_3625691020988439",
+        "interstitial": "3625690760988465_3625691137655094",
+        "nativebanner": "",
+        "mediumrectangle": ""
+    },
+    "admob": {
+        "publisher": "",
+        "banner": "",
+        "interstitial": "",
+        "largebanner": "",
+        "mediumrectangle": ""
+    },
+    "startapp": {
+        "app": ""
+    },
+    "ironsrc":{
+        "app": "10189cd21"
+    },
+    "content": {
+        "tip1": {
+            "title": "Title 1",
+            "article": "paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 "
+        },
+        "tip2": {
+            "title": "Title 2",
+            "article": "paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2"
+        },
+        "tip3": {
+            "title": "Title 3",
+            "article": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
+        }
+    }
+}
