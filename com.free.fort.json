@@ -1,0 +1,43 @@
+{
+    "networks": {
+        "native": ["admob", "facebook", "ironsrc"],
+        "banner": ["admob", "facebook", "ironsrc"],
+        "interstitial": ["admob", "facebook", "ironsrc"],
+        "nativebanner": ["admob", "facebook", "ironsrc"],
+        "mediumrectangle": ["admob", "facebook", "ironsrc"]
+    },
+    "facebook": {
+        "native": "404858894195186_404860580861684",
+        "banner": "404858894195186_404860174195058",
+        "interstitial": "404858894195186_404860014195074",
+        "nativebanner": "404858894195186_404860834194992",
+        "mediumrectangle": "404858894195186_404859777528431"
+    },
+    "admob": {
+        "publisher": "",
+        "banner": "",
+        "interstitial": "",
+        "largebanner": "",
+        "mediumrectangle": ""
+    },
+    "startapp": {
+        "app": ""
+    },
+    "ironsrc":{
+        "app": "101bd0a41"
+    },
+    "content": {
+        "tip1": {
+            "title": "Title 1",
+            "article": "paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 paragraph text 1 "
+        },
+        "tip2": {
+            "title": "Title 2",
+            "article": "paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2 paragraph text 2"
+        },
+        "tip3": {
+            "title": "Title 3",
+            "article": "paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 paragraph text 3 "
+        }
+    }
+}
