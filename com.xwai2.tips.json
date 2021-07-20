@@ -7,7 +7,7 @@
         "mediumrectangle": ["admob", "facebook", "ironsrc"]
     },
     "facebook": {
-        "native": "1181385918964908_1181386485631518",
+        "native": "",
         "banner": "1181385918964908_1260018127768353",
         "interstitial": "1181385918964908_1181523505617816",
         "nativebanner": "1181385918964908_1181524308951069",
