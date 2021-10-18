@@ -7,11 +7,11 @@
         "mediumrectangle": ["admob", "facebook", "ironsrc"]
     },
     "facebook": {
-        "native": "",
-        "banner": "",
-        "interstitial": "",
-        "nativebanner": "",
-        "mediumrectangle": ""
+        "native": "613774916463404_613777776463118",
+        "banner": "613774916463404_613775193130043",
+        "interstitial": "613774916463404_613777363129826",
+        "nativebanner": "613774916463404_613777883129774",
+        "mediumrectangle": "613774916463404_613777506463145"
     },
     "admob": {
         "publisher": "",
@@ -24,7 +24,7 @@
         "app": ""
     },
     "ironsrc":{
-        "app": ""
+        "app": "118e26bf5"
     },
     "content": {
         "tip1": {
