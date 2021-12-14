@@ -7,11 +7,11 @@
         "mediumrectangle": ["admob", "facebook", "ironsrc"]
     },
     "facebook": {
-        "native": "367664121827460_367664485160757",
+        "native": "",
         "banner": "367664121827460_367664331827439",
         "interstitial": "367664121827460_367664401827432",
-        "nativebanner": "367664121827460_367664551827417",
-        "mediumrectangle": "367664121827460_367664431827429"
+        "nativebanner": "",
+        "mediumrectangle": ""
     },
     "admob": {
         "publisher": "",
