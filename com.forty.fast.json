@@ -8,8 +8,8 @@
     },
     "facebook": {
         "native": "",
-        "banner": "",
-        "interstitial": "",
+        "banner": "429923075258232_429924108591462",
+        "interstitial": "429923075258232_429924051924801",
         "nativebanner": "",
         "mediumrectangle": ""
     },
@@ -24,7 +24,7 @@
         "app": ""
     },
     "ironsrc":{
-        "app": ""
+        "app": "128c0aad5"
     },
     "content": {
         "tip1": {
