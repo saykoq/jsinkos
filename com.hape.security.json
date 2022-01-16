@@ -8,10 +8,10 @@
     },
     "facebook": {
         "native": "",
-        "banner": "581770346146532_581770739479826",
-        "interstitial": "581770346146532_581770672813166",
-        "nativebanner": "581770346146532_581770912813142",
-        "mediumrectangle": "581770346146532_581771029479797"
+        "banner": "",
+        "interstitial": "",
+        "nativebanner": "",
+        "mediumrectangle": ""
     },
     "admob": {
         "publisher": "",
