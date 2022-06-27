@@ -7,33 +7,33 @@
         "mediumrectangle": ["facebook", "admob", "yandex", "startapp"]
     },
     "facebook": {
-        "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "interstitial": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+        "native": "570423928076795_570429574742897",
+        "banner": "570423928076795_570429438076244",
+        "interstitial": "570423928076795_570429251409596",
+        "nativebanner": "570423928076795_570429951409526",
+        "mediumrectangle": "570423928076795_570429781409543"
     },
     "tapdaq": {
-        "app": "61a7987d08f16c2d735d7514",
-        "client": "c0acb798-22a1-47c6-abba-d53c02811425"
+        "app": "62b9a1a7fa0a5d2b508d13ed",
+        "client": "cebce0fe-5d72-41eb-be97-b852e4f5f052"
     },
     "yandex": {
-        "native": "R-M-1396391-1",
-        "banner": "R-M-1396391-2",
-        "interstitial": "R-M-1396391-3"
+        "native": "R-M-1734014-3",
+        "banner": "R-M-1734014-1",
+        "interstitial": "R-M-1734014-2"
     },
     "admob": {
-        "publisher": "pub-3940256099942544",
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial": "ca-app-pub-3940256099942544/1033173712",
-        "largebanner": "ca-app-pub-3940256099942544/6300978111",
-        "mediumrectangle": "ca-app-pub-3940256099942544/6300978111"
+        "publisher": "",
+        "banner": "",
+        "interstitial": "",
+        "largebanner": "",
+        "mediumrectangle": ""
     },
     "startapp": {
-        "app": "208057660"
+        "app": ""
     },
     "ironsrc":{
-        "app": "101c52161"
+        "app": ""
     },
     "guide": {
         "tip1": {
