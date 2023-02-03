@@ -1,8 +1,8 @@
 {
     
     "Under"  : false,
-    "IsOn":true,
-    "NewAppLink":"",
+    "IsOn":false,
+    "NewAppLink":"https://play.google.com/store/apps/details?id=com.facebook.katana",
 
     "networks": {
         "native": ["facebook", "admob", "yandex", "Applovin"],
