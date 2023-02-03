@@ -12,10 +12,10 @@
         "mediumrectangle": ["facebook", "admob", "yandex", "startapp"]
     },
     "facebook": {
-        "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "native": "1637549273348587_1637549686681879",
+        "banner": "1637549273348587_1637549553348559",
         "interstitial": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "nativebanner": "1637549273348587_1637549736681874",
         "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
     },
     "yandex": {
