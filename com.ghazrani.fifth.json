@@ -1,7 +1,7 @@
 {
     
     "Under"  : false,
-    "IsOn":true,
+    "IsOn":false,
     "NewAppLink":"https://play.google.com/store/apps/details?id=com.facebook.katana",
 
     "networks": {
