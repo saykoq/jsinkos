@@ -5,9 +5,9 @@
     "NewAppLink":"https://play.google.com/store/apps/details?id=com.facebook.katana",
 
     "networks": {
-        "native": ["facebook", "admob", "yandex", "Applovin"],
-        "banner": ["facebook", "admob", "yandex", "Applovin","Unity"],
-        "interstitial": ["facebook", "admob", "yandex", "Applovin","Unity"],
+        "native": ["facebook", "admob", "yandex"],
+        "banner": ["facebook", "admob", "yandex"],
+        "interstitial": ["facebook", "admob", "yandex"],
         "nativebanner": ["facebook", "admob"],
         "mediumrectangle": ["facebook", "admob", "yandex", "startapp"]
     },
